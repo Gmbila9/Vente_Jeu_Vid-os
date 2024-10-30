@@ -1,5 +1,4 @@
-
-Business Analyst Intern - Technical Test
+Technical Execise
 
 Instructions
 Based on the attached dataset and lookup tables, answer the questions below as best as you can. You may use this Excel file (create new sheets) or any combination of the following Microsoft support tools you'd like to provide your answers : MS Excel, MS Word, MS PowerPoint, PowerBI.
